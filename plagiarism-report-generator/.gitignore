@@ -1,2 +1,6 @@
-# Ignore all output DOCX files, just in case.
-*.docx
+# Ignore everything except the essentials
+*
+!.gitignore
+!generate_report.py
+!README.md
+!templates
