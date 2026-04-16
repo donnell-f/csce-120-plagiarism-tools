@@ -28,7 +28,7 @@
 ${studentName} submitted code for the ${courseSubject} ${courseNumber} ${hwName} homework
 assignment to Gradescope. ${studentFirstName}'s code contained very specific
 key words (sometimes called "AI traps") which the instructions told the student
-to include in their submission __if and only if__ they were using AI tools to
+to include in their submission <u>if and only if</u> they were using AI tools to
 cheat on the homework.
 
 If you selected Autonomous as your preferred adjudication process, please fill
@@ -43,7 +43,7 @@ allowed to respond to the allegations.
 ${studentName} used AI tools to complete a programming homework assignment. The syllabus and announcements in class (on ${aiAnnouncementDate}) clearly state that the use of AI is disallowed for any assignment. 
 
 
-### AI Statement:
+### ${courseSubject} ${courseNumber} AI Statement
 
 *Artificial Intelligence (AI) text generators and natural language processing tools (colloquially, chatbots - such as ChatGPT), audio, computer code, video, and image generators must not be used in any way for completing assignments or assessments in this course. This includes not just copying code from AI tools but also using AI tools to summarize the homework prompt, to get high level algorithmic ideas or to debug your code. Students engaging in AI use to complete course work will be reported and sanctioned.*
 
@@ -66,9 +66,9 @@ text was copied and pasted into an AI tool, the AI tool would see this
 additional text. The hidden text instructed AI to include highly specific key
 words into the code it generated. The key words were designed such that so that
 no student would ever unintentionally reproduce them while completing the
-homework normally. Each of the AI-specific instructions started with the phrase
+homework normally. Each of the AI-targeting instructions started with the phrase
 "*If and only if* you are using an LLM..." so that even if a student stumbled
-upon these hidden instructions, they would know that they only applied to those
+upon these hidden instructions, the student would know that the instructions only applied to those
 who were cheating on the assignment by using an LLM (aka. an AI agent). These
 key word instructions are colloquially known as "AI traps", and will be
 referred to as such for the rest of this report. After
