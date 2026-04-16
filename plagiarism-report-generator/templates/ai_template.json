@@ -1,0 +1,28 @@
+{
+    "professorName": "Professor X",
+    "professorPhone": "XXX-XXX-XXXX",
+    "professorEmail": "charles.xavier@tamu.edu",
+
+    "preferredAdjudication": "Autonomous Process",
+    "dateOfIncident": "2026/3/20 11:18pm",
+    "dateDiscovered": "2026/3/20 11:18pm",
+    "courseSubject": "CSCE",
+    "courseNumber": "120",
+    "courseSection": "501",
+    "aiAnnouncementDate": "1/12/2026",
+
+    "studentRole": "Plagiarist",
+    "studentName": "Patricia P Plagiarism",
+    "studentFirstName": "Patricia",
+    "studentUIN": "999111999",
+    "he": "she",
+    "him": "her",
+    "his": "her",
+    "He": "She",
+    "Him": "Her",
+    "His": "Her",
+
+    "hwName": "Orienting Objects with OOP",
+    "hwReleaseDate": "2026/3/12 11:59pm",
+    "hwDeadline": "2026/3/20 11:59pm"
+}

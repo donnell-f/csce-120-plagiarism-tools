@@ -1,0 +1,2 @@
+# Ignore all output DOCX files, just in case.
+*.docx
